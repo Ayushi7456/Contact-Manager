@@ -21,3 +21,10 @@ src/
 ├── model/
 ├── service/
 └── Main.java
+
+## Future Enhancements
+
+- Store contacts in a file
+- Store contacts in a database
+- Add contact validation
+- Build REST APIs using Spring Boot
